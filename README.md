@@ -14,4 +14,5 @@
 - unidecode
 - pyodbc
   <br>
+  <br>
   <img width="100%" alt="Screenshot_1" src="https://github.com/rodrigo-id-pa/Extrair_dados_CAGED/assets/59376552/f056a002-bd99-44c7-a328-a9a4e6e8f681">
